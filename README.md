@@ -193,35 +193,27 @@ A study-related software project. Visit the repository for its actual features a
 <tr>
 <td valign="top">
 
-### 📖 StudyLink
 
-Study-related project hosted under another GitHub account.
+### ⚡ Smart-utility — Group Project
 
-<a href="https://github.com/search?q=StudyLink&type=repositories">↗ FIND REPOSITORY</a>
+A utility management project focused on helping users manage utility-related information and workflows.
 
-</td>
-<td valign="top">
+**My Role:** Main Contributor in a team project.
 
-### ⚡ Smart-utility
+**Technologies:** Check the repository for the exact implementation.
 
-Utility management project.
+[![View Smart-utility](https://img.shields.io/badge/VIEW%20PROJECT-Smart--utility-087DBB?style=for-the-badge&logo=github)](https://github.com/Adarshrajsrivastwa/Smart-utility)
 
-<a href="https://github.com/search?q=Smart-utility&type=repositories">↗ FIND REPOSITORY</a>
+---
+### 🏥 Arogyadoot — Group Project
 
-</td>
-<td valign="top">
+A healthcare-related project designed to help users explore healthcare services and related information.
 
-### 🏥 Arogyadoot
+**My Role:** Main Contributor in a team project.
 
-Healthcare-related project.
+**Technologies:** Check the repository for the exact implementation.
 
-<a href="https://github.com/search?q=Arogyadoot&type=repositories">↗ FIND REPOSITORY</a>
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/Akshat807?tab=repositories">
+[![View Arogyadoot](https://img.shields.io/badge/VIEW%20PROJECT-Arogyadoot-087DBB?style=for-the-badge&logo=github)](https://github.com/Adarshrajsrivastwa/Arogayadoot)
 <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-087DBB?style=for-the-badge&logo=github" alt="Explore all repositories"/>
 </a>
 
